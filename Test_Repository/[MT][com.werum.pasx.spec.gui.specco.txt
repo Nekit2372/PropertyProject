@@ -1,0 +1,4 @@
+[MT][com.werum.pasx.spec.gui.speccore.DocumentLayoutElementMarkerAssignmentView][detailHeader]=Details zum Dokumentlayout ''{0}''
+fsdfsdfdfsdfsdfsdfdfsf
+=sdasdasd
+[MT][com.werum.pasx.spec.gui.speccore.ElementMarkerMDView][viewTitle]=Elementmarkierungen
